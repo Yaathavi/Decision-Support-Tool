@@ -16,9 +16,7 @@ The purpose of this product is to make important information more accessible to 
 
 During my first semester of university, I took a course called Management Sciences (MSCI 100) and I was placed in a team of 5 to develop a decision support tool using **Microsoft Excel** and **VBA** for a client. Our client was a fourth-year engineering student seeking an organization-based tool that would improve his team's workflow and efficiency in completing their Final Year Design Project. 
 
-Within the team, I was in charge of overseeing the project and making sure everyone knew what to do and when to do it by. I spent time formatting the tool to give it a consistent design, tested and modified the tool after completion to ensure there were no bugs/errors and then I later created a 5-min video regarding the tool's functionality. My other responsibilities included developing a project plan, managing the project scope, and conducting risk analysis on a weekly basis.
-
-Along with building the tool, my team and I wrote thorough documentation of the tool which included design specifications, test specifications, user manuals, and project-plan updates.
+Within the team, I was in charge of overseeing the project and making sure everyone knew what to do and when to do it by. I spent time formatting the tool to give it a consistent design, tested and modified the tool after completion to ensure there were no bugs/errors and then I later created a 5-min video regarding the tool's functionality. Along with building the tool, my team and I wrote thorough documentation of the tool which included design specifications, test specifications, user manuals, and project-plan updates.
 
 
 When you first open the file, you will be directed to the main page that gives a brief description of each sheet and its purpose. It also has a home button that allows the client to navigate to other parts of the tool. Here are some pictures of the tool: 
