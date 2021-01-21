@@ -13,6 +13,8 @@ If you want to see the VBA code that was used to create this project,
 
 The purpose of this product is to make important information more accessible to our client in a singular application. By providing tools such as centralized note-taking tools, task tracker, and resource page, the client is able to increase efficiency and productivity within their company. This tool tackles the problem of disorganization, since the client is using many tools to stay organized and has a hard time navigating through different applications. By providing a singular application with the same functionality, the client saves valuable time. 
 
+> **Tool Overview** 
+
 When you first open the file, you will be directed to the main page that gives a brief description of each sheet and its purpose. It also has a home button that allows the client to navigate to other parts of the tool. Here are some pictures of the tool: 
 
 ![Screenshot1](https://github.com/Yaathavi/Decision-Support-Tool/blob/main/screenshot.png?raw=true)
