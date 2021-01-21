@@ -11,7 +11,7 @@ If you want to see the VBA code that was used to create this project,
 
 (This tool is only compatible with the Windows Operating System as MacOs tends to have some issues with VBA) 
 
-The purpose of this product is to make important information more accessible to our client in a singular application. By providing tools such as centralized note-taking tools, task tracker, and resource page, the client is able to increase efficiency and productivity within their company. This tool tackles the problem of disorganization, since the client is using many tools to stay organized and has a hard time navigating through different applications. By providing a singular application with the same functionality, the client saves valuable time. 
+The purpose of this product is to make important information more accessible to our client in a singular application. By providing a centralized note-taking, task tracker, and resource sheet, the client is able to increase efficiency and productivity within their company. This tool tackles the problem of disorganization, since the client was previously using many applications to stay organized. By providing a singular application with the same functionality, the client saves valuable time. 
 
 > **Tool Overview** 
 
